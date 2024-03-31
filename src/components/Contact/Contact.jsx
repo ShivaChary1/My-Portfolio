@@ -70,9 +70,9 @@ function Contact() {
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                         <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">9912303178</span>
+                        <span className="contact__card-data">9640441246</span>
 
-                        <a href="https://api.whatsapp.com/send?phone=9640441246&text=Hello, Shiva chary!" className="contact__button">
+                        <a href="https://api.whatsapp.com/send?phone=+919640441246&text=Hello, Shiva chary!" className="contact__button">
                             Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
 

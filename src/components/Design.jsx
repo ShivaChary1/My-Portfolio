@@ -16,9 +16,14 @@ const Design = () => {
             id="tsparticles"
             init={particlesInit}
             loaded={particlesLoaded}
-            options={{
+            options={
+                {
                 fpsLimit: 144,
                 interactivity: {
+                    fullScreen: {
+                        zIndex: -10,
+                        enable: true,
+                    },
                     events: {
                         onClick:{
                             enable : false,
