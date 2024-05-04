@@ -9,7 +9,7 @@ export default function Info() {
         <h3 className="about__title">
           Experience
         </h3>
-        <span className="about__subtitle"> &lt;1 year <br />Working</span>
+        <span className="about__subtitle"> &lt; 1 year <br />Working</span>
       </div>
 
 
@@ -18,7 +18,7 @@ export default function Info() {
         <h3 className="about__title">
           Completed
         </h3>
-        <span className="about__subtitle">&lt; 10 <br /> projects</span>
+        <span className="about__subtitle">≈ 5 <br /> projects</span>
       </div>
 
       

@@ -2,7 +2,7 @@ import React from 'react'
 import FrontEnd from './FrontEnd'
 import BackEnd from './BackEnd'
 import './skills.css'
-
+import Others from './Others'
 
 function Skills() {
 
@@ -16,6 +16,9 @@ function Skills() {
         <div className="skills__container container grid">
             <FrontEnd/>
             <BackEnd/>
+        </div>
+        <div className="other_skills">
+          <Others/>
         </div>
     </section>
   )

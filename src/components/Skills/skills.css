@@ -4,6 +4,13 @@
     justify-content: center;
     z-index: 5;
 }
+.other_skills{
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
 
 .skills__content{
     background-color: var(--container-color);

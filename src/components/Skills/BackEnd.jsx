@@ -13,7 +13,7 @@ function BackEnd() {
     })
   return (
     <div ref={ref} className='skills__content'>
-        <h3 className="skills__title">Backend Developer</h3>
+        <h3 className="skills__title">Back-End</h3>
 
 
         <div className="skills__box">
@@ -27,9 +27,9 @@ function BackEnd() {
                 </div>
 
                 <div className="skills__data">
-                    <i className="bx bxl-php"></i>
+                    <i className="bx bxl-django"></i>
                     <div className="">
-                        <h3 className="skills__name">PHP</h3>
+                        <h3 className="skills__name">Django</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
@@ -45,10 +45,10 @@ function BackEnd() {
 
             <div className="skills__group">
                 <div className="skills__data">
-                    <i className="bx bxl-python"></i>
+                    <i className="bx bxs-coin-stack"></i>
                     <div className="">
-                        <h3 className="skills__name">Python</h3>
-                        <span className="skills__level">Advanced</span>
+                        <h3 className="skills__name">MySQL</h3>
+                        <span className="skills__level">Beginner</span>
                     </div>
                 </div>
 

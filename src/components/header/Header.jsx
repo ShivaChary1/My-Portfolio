@@ -12,7 +12,7 @@ export default function Header() {
     const [toggle,showMenu] = useState(false)
 
     return (
-        <header className="header">
+        <header className="header" id='header'>
             <nav className="nav container">
                 <a href="index.html" className="nav__logo">Shiva Chary</a>
                 <div className={toggle?"nav__menu show-menu":"nav__menu"}>
@@ -37,13 +37,13 @@ export default function Header() {
 
                         <li className="nav__item">
                             <a href="#services" onClick= {()=> setActiveNav("#services")} className={activeNav==="#services"?"nav__link active-link":"nav__link"}>
-                                <i className="uil uil-briefcase-alt nav__icon"></i>Services
+                                <i className="uil uil-briefcase-alt nav__icon"></i>Projects
                             </a>
                         </li>
 
                         <li className="nav__item">
-                            <a href="#portfolio" onClick= {()=> setActiveNav("#portfolio")} className={activeNav==="#portfolio"?"nav__link active-link":"nav__link"}>
-                                <i className="uil uil-scenery nav__icon"></i>Projects
+                            <a href="#qualification" onClick= {()=> setActiveNav("#portfolio")} className={activeNav==="#portfolio"?"nav__link active-link":"nav__link"}>
+                                <i className="uil uil-scenery nav__icon"></i> Education
                             </a>
                         </li>
 

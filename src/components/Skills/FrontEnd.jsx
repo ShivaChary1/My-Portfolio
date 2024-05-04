@@ -12,7 +12,7 @@ function FrontEnd() {
     })
   return (
     <div ref={ref} className='skills__content'>
-        <h3 className="skills__title">Frontend Developer</h3>
+        <h3 className="skills__title">Front-End</h3>
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">

@@ -26,7 +26,7 @@ function About() {
             <div className="about__data">
                 <Info/>
 
-                <p className="about__description">Forntend developer, I create web pages with UI/Ux user interface, I have years of experience and many clients are happy with the projects carried out.</p>
+                <p className="about__description">A CS student specializing in AI & ML, armed with strong problem-solving skills and a thirst for learning. I thrive on challenges and embrace new opportunities with enthusiasm. As a full-stack developer, I craft innovative solutions that make a difference.Let's create the future together!</p>
 
 
                 <a href={CV} download='' className="button button--flex">Download CV
