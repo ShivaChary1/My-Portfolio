@@ -41,10 +41,10 @@
     border-radius: 0.5rem;
     display: inline-flex;
 }
-
-.footer__social-link:hover{
-    color: var(--title-color-dark);
-    transition: .4s;
+.footer_icon_social:hover{
+    color: #fff;
+    background-color: var(--title-color-dark);
+    transition: .3s;
 }
 
 .footer__copy{

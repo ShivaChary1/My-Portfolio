@@ -55,7 +55,7 @@ function Others() {
     //     </div>
     // </div>
     <div ref={ref} className='skills__content'>
-        <h3 className="skills__title">Programming</h3>
+        <h3 className="skills__title">Programming & Others</h3>
 
 
         <div className="skills__box">
@@ -75,6 +75,15 @@ function Others() {
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
+
+
+                <div className="skills__data">
+                    <i className="bx bxl-joomla"></i>
+                    <div className="">
+                        <h3 className="skills__name">AI & ML</h3>
+                        <span className="skills__level">Beginner</span>
+                    </div>
+                </div>
             </div>
 
             <div className="skills__group">
@@ -91,6 +100,14 @@ function Others() {
                     <div className="">
                         <h3 className="skills__name">Java</h3>
                         <span className="skills__level">Intermediate</span>
+                    </div>
+                </div>
+
+                <div className="skills__data">
+                    <i className="bx bx-data"></i>
+                    <div className="">
+                        <h3 className="skills__name">Data Analytics</h3>
+                        <span className="skills__level">Beginner</span>
                     </div>
                 </div>
             </div>

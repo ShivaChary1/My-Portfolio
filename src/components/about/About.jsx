@@ -2,7 +2,7 @@ import {React,useRef,useEffect} from 'react'
 import "./about.css"
 import ScrollReveal from 'scrollreveal'
 import AboutImg from "../../assets/profile1-modified.jpg"
-import CV from "../../assets/FinalResume.pdf"
+import CV from "../../assets/Shiva_resume.pdf"
 import Info from './Info'
 
 
