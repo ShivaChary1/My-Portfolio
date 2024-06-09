@@ -81,7 +81,7 @@ function Contact() {
                         <i className="bx bxl-linkedin-square contact__card-icon"></i>
 
                         <h3 className="contact__card-title">LinkedIn</h3>
-                        <span className="contact__card-data">@linkedinhandle</span>
+                        <span className="contact__card-data">@shivacharygudddoju</span>
 
                         <a href="https://www.linkedin.com/in/shiva-chary-guddoju-867b93290/" className="contact__button">
                             Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i>
