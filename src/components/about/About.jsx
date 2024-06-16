@@ -26,7 +26,7 @@ function About() {
             <div className="about__data">
                 <Info/>
 
-                <p className="about__description">A CS student specializing in AI & ML, armed with strong problem-solving skills and a thirst for learning. I thrive on challenges and embrace new opportunities with enthusiasm. As a full-stack developer, I craft innovative solutions that make a difference.Let's create the future together!</p>
+                <p className="about__description">CS student specializing in AI & ML with strong problem-solving skills and a passion for learning. As a full-stack developer, I thrive on challenges and create innovative solutions. Let's shape the future together!</p>
 
 
                 <a href={CV} download='' className="button button--flex">Download CV
