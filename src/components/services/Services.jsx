@@ -1,4 +1,3 @@
-import React,{useState} from 'react'
 import './servies.css'
 
 
@@ -57,7 +56,7 @@ function Services() {
                     
                 </div>
             </div>
-<div className="services__content">
+            <div className="services__content">
                 <div>
                     <i style={{fontWeight:600}} className="uil bx bxl-airbnb services__icon"></i>
                     <h3 className="services__title">InnTuit <br/></h3>
