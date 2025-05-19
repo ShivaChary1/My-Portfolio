@@ -1,4 +1,3 @@
-import React from 'react'
 import "./about.css"
 
 export default function Info() {
@@ -25,7 +24,7 @@ export default function Info() {
       <div className="about__box">
         <i className="bx bx-support about__icon"></i>
         <h3 className="about__title">
-          Support
+          Contact
         </h3>
         <span className="about__subtitle">Online <br /> 24/7</span>
       </div>

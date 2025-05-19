@@ -1,8 +1,8 @@
-import {React,useRef,useEffect} from 'react'
+import {useRef,useEffect} from 'react'
 import "./about.css"
 import ScrollReveal from 'scrollreveal'
 import AboutImg from "../../assets/profile1-modified.jpg"
-import CV from "../../assets/Shiva_resume.pdf"
+import CV from "../../assets/shiva_resume.pdf"
 import Info from './Info'
 
 
@@ -31,7 +31,7 @@ function About() {
 
                 <a href={CV} download='' className="button button--flex">Download CV
                 <svg
-                class="button__icon"
+                className="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
                 height="24"

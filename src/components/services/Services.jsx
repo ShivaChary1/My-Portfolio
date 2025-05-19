@@ -10,40 +10,13 @@ function Services() {
 
 
         <div className="services__container container grid" >
-            <div className="services__content">
-                <div>
-                    <i style={{fontWeight:600}} className="uil bx bxl-airbnb services__icon"></i>
-                    <h3 className="services__title">AirBnb <br/>clone</h3>
-                    
-                    <a href="#" target='_blank'>
-                        <span className="services__button">View Code <i className="uil uil-arrow-right services__button-icon"></i></span>
-                    </a>
-                    <br />
-                    <a href="#">
-                        <span className="services__button">Live Site <i className="uil uil-arrow-right services__button-icon"></i></span>
-                    </a>
-                </div>
-            </div>
-
-            <div className="services__content" >
-                <div>
-                    <i className="uil uil-arrow services__icon"></i>
-                    <h3 className="services__title"> Portfolio<br />Website </h3>
-                       <a href="https://github.com/ShivaChary1/My-Portfolio" target='_blank'>
-                            <span className="services__button">View Code <i className="uil uil-arrow-right services__button-icon"></i></span>
-                       </a>
-                    <br />
-                    <a href="#home">
-                        <span className="services__button">Live Site <i className="uil uil-arrow-right services__button-icon"></i></span>
-                    </a> 
-                </div>
-            </div>
-             
+            
+            
             <div className="services__content">
                 <div>
                     <i className="uil uil-web-grid services__icon"></i>
-                    <h3 className="services__title">To-Do List<br/>App</h3>
-                    <a href="#" target="_blank">
+                    <h3 className="services__title">MetaConnect<br/></h3>
+                    <a href="https://github.com/ShivaChary1/the_metaApp_project" target="_blank">
                     <span className="services__button">View Code <i className="uil uil-arrow-right services__button-icon"></i></span>
                     </a>
                     <br />
@@ -55,9 +28,25 @@ function Services() {
 
             <div className="services__content" >
                 <div>
+                    <i className="uil uil-arrow services__icon"></i>
+                    <h3 className="services__title"> Pneumo.Ai<br /></h3>
+                       <a href="https://github.com/ShivaChary1/pneumo_ai" target='_blank'>
+                            <span className="services__button">View Code <i className="uil uil-arrow-right services__button-icon"></i></span>
+                       </a>
+                    <br />
+                    <a href="#home">
+                        <span className="services__button">Live Site <i className="uil uil-arrow-right services__button-icon"></i></span>
+                    </a> 
+                </div>
+            </div>
+             
+
+
+            <div className="services__content" >
+                <div>
                     <i className="uil uil-cloud-moon-rain services__icon"></i>
-                    <h3 className="services__title">Weather <br /> App </h3>
-                    <a href="https://github.com/ShivaChary1/Weather-App" target="_blank">
+                    <h3 className="services__title">GenAI <br /> ChatBot </h3>
+                    <a href="https://github.com/ShivaChary1/chatbot_genAI" target="_blank">
                     <span className="services__button">View Code <i className="uil uil-arrow-right services__button-icon"></i></span>
                     </a>
                    
@@ -68,7 +57,22 @@ function Services() {
                     
                 </div>
             </div>
-            <div className="services__content" >
+<div className="services__content">
+                <div>
+                    <i style={{fontWeight:600}} className="uil bx bxl-airbnb services__icon"></i>
+                    <h3 className="services__title">InnTuit <br/></h3>
+                    
+                    <a href="https://github.com/ShivaChary1/InnTuit" target='_blank'>
+                        <span className="services__button">View Code <i className="uil uil-arrow-right services__button-icon"></i></span>
+                    </a>
+                    <br />
+                    <a href="#">
+                        <span className="services__button">Live Site <i className="uil uil-arrow-right services__button-icon"></i></span>
+                    </a>
+                </div>
+            </div>
+
+            {/* <div className="services__content" >
                 <div>
                     <i className="uil uil-stopwatch-slash services__icon"></i>
                     <h3 className="services__title">Stopwatch <br /> Web App</h3>
@@ -81,7 +85,7 @@ function Services() {
                     </a>
                     
                 </div>
-            </div>
+            </div> */}
 
             {/* <div className="services__content" >
                 <div>
